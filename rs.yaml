@@ -19,6 +19,6 @@ spec:
       containers:
         - name: car-container
           image: muralisocial123/cart-page-test:1.0
-          port:
+          ports:
            - containerPort: 3000
 
